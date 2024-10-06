@@ -1,0 +1,39 @@
+html {
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    font-family: ui-sans-serif, Segoe UI, sans-serif;
+    background-color: #171717;
+    color: #ececec;
+}
+
+figcaption {
+    font-size: xx-small;
+    font-style: italic;
+}
+
+a {
+    color: skyblue;
+}
+
+h1, .center {
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 0;
+    text-decoration: underline;
+    font-style: italic;
+    color: darkgray;
+}
+
+ol, ul {
+    margin-top: 0;
+}
+
+input {
+    background-color: #212121;
+    color: #ececec;
+    border: none;
+    padding: 3px;
+}
